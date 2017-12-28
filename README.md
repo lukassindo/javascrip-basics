@@ -1,1 +1,1 @@
-# javascrip-basics
+# javascript-basics
